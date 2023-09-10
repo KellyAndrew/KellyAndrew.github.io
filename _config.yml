@@ -22,7 +22,7 @@ avatar_image: /img/Andrew_Kelly.jpeg
 
 #-------------------------------
 # Contact links
-linkedln: "www.linkedin.com/in/andrew-kelly-704505211" # Add your linkedln handle
+linkedln: "https://www.linkedin.com/in/andrew-kelly-704505211" # Add your linkedln handle
 github: "https://github.com/#"  # Add your github handle
 
 paginate: 6
