@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Andrew Kelly
-description: "Hello, I'm Andrew, transitioning into Data Science with over a decade of experience as a technical translator in the software industry. My portfolio showcases recent projects with significant business impact. Feel free to explore my GitHub & LinkedIn profiles (or download my resume) through the links provided below!"
+description: "Greetings, I'm Andrew, a seasoned technical translator with over a decade of expertise in the software industry. Recently accredited as a proficient data analyst, I bring a wealth of experience to the table. My data science portfolio highlights recent projects with significant business impact. Feel free to delve into my GitHub and LinkedIn profiles, or simply download my resume using the links provided below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
